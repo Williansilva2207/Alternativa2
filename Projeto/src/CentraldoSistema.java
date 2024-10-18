@@ -1,6 +1,6 @@
 import Evento.SistemaEventos;
-import Restaurante.SistemaRestaurante;
-import ClinicaMedica.SistemaClinica;
+
+
 import java.util.Scanner;
 
 public class CentraldoSistema {
